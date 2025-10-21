@@ -1,0 +1,8 @@
+F:\VISUAL\ооп123\ооп задание 5\bin\Debug\ооп задание 5.exe.config
+F:\VISUAL\ооп123\ооп задание 5\bin\Debug\ооп задание 5.exe
+F:\VISUAL\ооп123\ооп задание 5\bin\Debug\ооп задание 5.pdb
+F:\VISUAL\ооп123\ооп задание 5\obj\Debug\ооп задание 5.csproj.AssemblyReference.cache
+F:\VISUAL\ооп123\ооп задание 5\obj\Debug\ооп задание 5.csproj.CoreCompileInputs.cache
+F:\VISUAL\ооп123\ооп задание 5\obj\Debug\ооп задание 5.exe
+F:\VISUAL\ооп123\ооп задание 5\obj\Debug\ооп задание 5.pdb
+F:\VISUAL\ооп123\ооп задание 5\obj\Debug\ооп задание 5.exe.config

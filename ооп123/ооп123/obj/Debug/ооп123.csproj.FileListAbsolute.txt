@@ -1,0 +1,7 @@
+F:\VISUAL\ооп123\ооп123\bin\Debug\ооп123.exe.config
+F:\VISUAL\ооп123\ооп123\bin\Debug\ооп123.exe
+F:\VISUAL\ооп123\ооп123\bin\Debug\ооп123.pdb
+F:\VISUAL\ооп123\ооп123\obj\Debug\ооп123.csproj.AssemblyReference.cache
+F:\VISUAL\ооп123\ооп123\obj\Debug\ооп123.csproj.CoreCompileInputs.cache
+F:\VISUAL\ооп123\ооп123\obj\Debug\ооп123.exe
+F:\VISUAL\ооп123\ооп123\obj\Debug\ооп123.pdb
